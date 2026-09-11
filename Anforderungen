@@ -1,0 +1,40 @@
+Notfall Powerbank
+
+einen USB-C-Anschluss
+zum laden und entladen 
+anzeige des Ladestand der Powerbank
+
+Anforderung
+soll 25% eines Handys laden können.
+soll weniger als 500g wiegen
+soll kleiner als 200 cm^3 sein
+
+
+Ladestand über 4 Leuchte angezeigt
+erste Leuchte ab 1 Prozent
+2 Leuchten ab 33 Prozent
+3 Leuchten ab 66 Prozent
+4 Leuchten ab 99 Prozent
+
+
+Beim entladen 
+3 Leuchten ab 75 Prozent
+2 Leuchten ab 50 Prozent
+1 Leuchten ab 25 Prozent
+0 Leuchten ab 1 Prozent
+
+
+Preisbeschränkung
+20€
+
+
+Zeit Plan
+heute 11.9- Anforderungen erstellen, Bauteile und deren Anforderungen raussuchen
+Montag 14.9 - erstellen Leiterplatte 
+Montag 9.11 - Hülle (3 dreh drücken)
+Montag 20.11 - Vortrag halten
+
+Weitere Informationen: 
+Testpunkte auf der Leiterplatte 
+Kreise zur positionsbestimmung
+Easteregg auf der Leiterplatte einbauen
